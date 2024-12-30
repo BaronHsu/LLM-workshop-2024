@@ -19,6 +19,9 @@ model.ckpt.data-00000-of-00001
 model.ckpt.index
 model.ckpt.meta
 vocab.bpe
+05_weightloading/checkpoints/*
+06_finetuning/checkpoints/*
+
 
 # OS and temporary files
 .DS_Store

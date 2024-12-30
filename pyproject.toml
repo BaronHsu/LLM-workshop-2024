@@ -18,6 +18,7 @@ pandas = ">=2.2.1"
 psutil = ">=5.9.5"
 litgpt = {version = ">=0.4.1", extras = ["all"]}
 ipykernel = "^6.29.5"
+ipython = "^8.31.0"
 
 
 [build-system]
